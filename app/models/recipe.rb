@@ -1,4 +1,4 @@
 #Placeholder for a model
 
-class Recipe < ActiveRecord::Migration[4.2]
+class Recipe < ActiveRecord::Base[5.1]
 end
